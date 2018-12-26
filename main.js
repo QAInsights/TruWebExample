@@ -11,7 +11,8 @@ load.action("Action", async function () {
     sum = a + b;
     load.log(sum);
     load.log("This is my change to demo Github!");
-    
+    load.log("This is my another change");
+
  });
 
 load.finalize(async function () {
