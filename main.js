@@ -12,6 +12,7 @@ load.action("Action", async function () {
     load.log(sum);
     load.log("This is my change to demo Github!");
     load.log("This is my another change");
+    load.log("Staging");
 
  });
 
