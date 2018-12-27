@@ -15,6 +15,7 @@ load.action("Action", async function () {
     load.log("Staging");
     load.log(`Another change`);
     load.log('Stage > Commit > Push');
+    load.log(`Stage > Push`);
     //My Comment
  });
 
